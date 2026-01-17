@@ -40,3 +40,6 @@ python -m http.server 3000
 ---
 
 ⭐ Made with ❤️ by Md. Ariful Islam
+
+---
+Last updated: 2025
