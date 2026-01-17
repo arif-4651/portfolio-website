@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Restaurant Management System",
+    "desc": "Full-stack restaurant management system with order management, table reservations, dashboard, and real-time updates. Built with modern web technologies.",
+    "image": "restaurant-management-system",
+    "category": "mern",
+    "links": {
+      "view": "https://restaurant-management-system-mauve.vercel.app/",
+      "code": "https://github.com/arif-4651/Restaurant-Management-System"
+    }
+  },
+  {
+    "name": "Cuisine Restaurant",
+    "desc": "Multi-cuisine restaurant website with menu display, table booking system, event management, and responsive design. Perfect for fine dining experience.",
+    "image": "cuisine-gules",
+    "category": "mern",
+    "links": {
+      "view": "https://cuisine-gules.vercel.app/",
+      "code": "https://github.com/arif-4651/Cuisine"
+    }
+  },
+  {
+    "name": "DNK E-Commerce",
+    "desc": "Modern e-commerce platform with product catalog, shopping cart, user authentication, and category-based browsing. Built with responsive design.",
+    "image": "dnk-three",
+    "category": "mern",
+    "links": {
+      "view": "https://dnk-three.vercel.app/",
+      "code": "https://github.com/arif-4651/DNK"
+    }
+  },
+  {
+    "name": "Realtime Chat App",
+    "desc": "Real-time messaging application with instant messaging, secure private chats, modern UI, and user-friendly interface. Built with Socket.IO.",
+    "image": "real time chat app",
+    "category": "mern",
+    "links": {
+      "view": "https://realtime-chat-app-sigma-rouge.vercel.app/",
+      "code": "https://github.com/arif-4651/Realtime-Chat-App"
+    }
+  },
+  {
+    "name": "EduLink HUB",
+    "desc": "Educational platform for Bangladeshi students with study resources, expert tutors, scholarship information, and affordable learning solutions.",
+    "image": "edu link hub",
+    "category": "mern",
+    "links": {
+      "view": "https://edu-link-hub.vercel.app/",
+      "code": "https://github.com/arif-4651/EduLink-HUB"
+    }
+  },
+  {
+    "name": "E-Shop",
+    "desc": "E-commerce website with featured products, shopping cart functionality, category-based product browsing, and user profile management.",
+    "image": "E-shop",
+    "category": "mern",
+    "links": {
+      "view": "https://e-shop-one-gold.vercel.app/",
+      "code": "https://github.com/arif-4651/E-Shop"
+    }
+  },
+  {
+    "name": "10 Min School",
+    "desc": "Educational platform for HSC preparation with live classes, recorded videos, MCQ question bank, and comprehensive study materials for students.",
+    "image": "10 ms",
+    "category": "mern",
+    "links": {
+      "view": "https://10-ms-rho.vercel.app/",
+      "code": "https://github.com/arif-4651/10MS"
+    }
+  }
+]
